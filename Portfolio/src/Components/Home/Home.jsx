@@ -88,7 +88,7 @@ const Home = ({ scrollRef }) => {
 					</h1>
 					<div className={styles.btn}>
 						
-						<a href='https://drive.google.com/file/d/19ogXxiRh_sQaCNh0hDvkxH1wid64obLW/view?usp=sharing' target='_blank' rel='noopener noreferrer'>
+						<a href='https://drive.google.com/file/d/1qU04eBSIklE7RUjYtMiee3lV3kxlARAD/view?usp=sharing' target='_blank' rel='noopener noreferrer'>
 							<Button
 								text={
 									<span className={styles.resumeBtn}>
