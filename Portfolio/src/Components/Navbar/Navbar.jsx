@@ -58,7 +58,7 @@ const Navbar = () => {
 			}}
 		>
 			<div className={styles.navbar} style={{position:"absolute", paddingTop:"1%"}}>
-				<a href='https://abhishekh-kumar-0b3725.netlify.app/'>
+				<a href='https://abhishekh-kr6416-32bc05.netlify.app/'>
 					<div className={styles.logo}>
 						<img
 							src={A}
