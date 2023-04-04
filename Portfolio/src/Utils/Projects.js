@@ -20,7 +20,7 @@ export const projects = [
 
 	{
 		img: Dominos,
-		title: 'Dominios Pizza Clone ',
+		title: 'Dominios Pizza Clone',
 		des: 'Online pizza ordering web application that delivers pizza within 30 minutes..',
 		live: 'https://dominos-pizza-abhishekh-258f24.netlify.app/',
 		demo: '',
