@@ -1,8 +1,10 @@
 
 import Hotstar from "../ash/Hotstar.png"
+import dermastore from "../ash/dermastore.png"
 import OYO from "../ash/OYO.png"
 import PharmEasy1 from "../ash/PharmEasy1.png"
 import fitnesspal from "../ash/fitnesspal.png"
+import Dominos from "../ash/Dominos.png"
 export const projects = [
 
 	{
@@ -13,6 +15,27 @@ export const projects = [
 		demo: '',
 		gitHub: 'https://github.com/Abhishek6416/Hotstar-Clone',
 		technologies: ['HTML', 'CSS', 'javaScript','GitHub','Json Server'],
+	},
+  
+
+	{
+		img: Dominos,
+		title: 'Dominios Pizza Clone ',
+		des: 'Online pizza ordering web application that delivers pizza within 30 minutes..',
+		live: 'https://dominos-pizza-abhishekh-258f24.netlify.app/',
+		demo: '',
+		gitHub: 'https://github.com/Abhishek6416/Domino-s-Pizza',
+		technologies: ['HTML', 'CSS', 'javaScript','Json Server',"React","Redux","Material UI","Chakra UI"],
+	},
+
+	{
+		img: dermastore,
+		title: 'Dermastore Clone ',
+		des: 'Dermstore is a skincare and beauty e-commerce site in the United States. This collaborative project aimed to build a Clone of an E-Commerce website for beauty Products',
+		live: 'https://dermastore-group-7ffd6b.netlify.app/',
+		demo: '',
+		gitHub: 'https://github.com/Abhishek6416/DermaStore_Clone-MERN',
+		technologies: ['HTML', 'CSS', 'javaScript','GitHub','React Js','Redux','Material UI','Chakra UI','Node Js','Express Js','Mongo DB,Atlas'],
 	},
 	{
 		img: OYO,

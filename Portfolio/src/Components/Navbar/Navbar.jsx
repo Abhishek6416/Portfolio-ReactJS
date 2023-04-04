@@ -58,14 +58,14 @@ const Navbar = () => {
 			}}
 		>
 			<div className={styles.navbar} style={{position:"absolute", paddingTop:"1%"}}>
-				<a href='https://abhishekh-kr6416-32bc05.netlify.app/'>
+				{/* <a href='#'> */}
 					<div className={styles.logo}>
 						<img
 							src={A}
 							alt='Logo'
 						/>
 					</div>
-				</a>
+				{/* </a> */}
 
 				<div
 					style={{ color: `${newTheme.title}` }}

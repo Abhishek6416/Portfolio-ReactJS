@@ -5,7 +5,7 @@ import SideIcons from '../SideIcons/SideIcons';
 import TechStacks from '../TechStacks/TechStacks';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
-import photo from "../../ash/Abhishekh.jpg"
+import photo from "../../ash/Abhishekh.png"
 
 import { Button } from '../Button/Button';
 import About from '../About/About';
@@ -88,7 +88,7 @@ const Home = ({ scrollRef }) => {
 					</h1>
 					<div className={styles.btn}>
 						
-						<a href='https://drive.google.com/file/d/1k2UEa_5M6HGz06slSjXHfrZkim_6BfDs/view?usp=sharing' target='_blank' rel='noopener noreferrer'>
+						<a href='https://drive.google.com/file/d/1M_rSZ_s0Fq9cP08-tCR8wcQZSpAUwwQw/view?usp=sharing' target='_blank' rel='noopener noreferrer'>
 							<Button
 								text={
 									<span className={styles.resumeBtn}>
