@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.6db0783c.chunk.css",
-    "main.js": "./static/js/main.e875b033.chunk.js",
-    "main.js.map": "./static/js/main.e875b033.chunk.js.map",
+    "main.js": "./static/js/main.bfb96f83.chunk.js",
+    "main.js.map": "./static/js/main.bfb96f83.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.587c920b.js",
     "runtime-main.js.map": "./static/js/runtime-main.587c920b.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "./static/css/2.7fc9bc2b.chunk.css",
@@ -16,9 +16,11 @@
     "static/js/2.0e6f9ba1.chunk.js.LICENSE.txt": "./static/js/2.0e6f9ba1.chunk.js.LICENSE.txt",
     "static/media/A.b7577496.png": "./static/media/A.b7577496.png",
     "static/media/Abhishekh.589b3d0e.png": "./static/media/Abhishekh.589b3d0e.png",
+    "static/media/Dominos.aa0fdd36.png": "./static/media/Dominos.aa0fdd36.png",
     "static/media/Hotstar.1aef79c2.png": "./static/media/Hotstar.1aef79c2.png",
     "static/media/OYO.71724bb4.png": "./static/media/OYO.71724bb4.png",
     "static/media/PharmEasy1.cf6daaf2.png": "./static/media/PharmEasy1.cf6daaf2.png",
+    "static/media/dermastore.fb3dab94.png": "./static/media/dermastore.fb3dab94.png",
     "static/media/fitnesspal.38411c46.png": "./static/media/fitnesspal.38411c46.png"
   },
   "entrypoints": [
@@ -26,6 +28,6 @@
     "static/css/2.7fc9bc2b.chunk.css",
     "static/js/2.0e6f9ba1.chunk.js",
     "static/css/main.6db0783c.chunk.css",
-    "static/js/main.e875b033.chunk.js"
+    "static/js/main.bfb96f83.chunk.js"
   ]
 }
